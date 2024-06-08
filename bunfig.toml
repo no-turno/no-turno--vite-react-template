@@ -1,0 +1,10 @@
+jsx = "react-jsx"
+jsxImportSource = "react"
+
+[define]
+"import.meta.env.PORT" = "9431"
+"Bun.editor" = "Bun.which('zed')"
+
+[run]
+bun = true
+shell = "bun"
